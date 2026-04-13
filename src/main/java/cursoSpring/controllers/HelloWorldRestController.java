@@ -10,6 +10,6 @@ public class HelloWorldRestController {
 
     public String helloWorld (){
         System.out.println("Solicitud ejecutada!");
-        return "Hello, World, Aloha, buenas tardes, buenas noches";
+        return "Hello, World, Aloha, buenas tardes, buenas noches, buenas mañanas";
     }
 }
